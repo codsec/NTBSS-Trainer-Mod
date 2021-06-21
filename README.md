@@ -2,7 +2,7 @@
 Naruto To Boruto S.S Mod to earn infinite scrolls and XP, works on online/multiplayer modes
 
 ## Download Link:
-https://github.com/codsec/NTBSS-Trainer-Mod/releases/tag/v1.5.4
+https://github.com/codsec/NTBSS-Trainer-Mod/releases
 
 #### Features List:
 - Plain Scroll

@@ -21,12 +21,17 @@ https://github.com/codsec/NTBSS-Trainer-Mod/releases
 - Unlimited Chakra
 - Unlimited Timer
 - Unlimited Skills
+- Edit Hours Played
 
 #### How to install:
-- Rename NARUTO.exe in main game directory (example C:\SteamLibrary\steamapps\common\Naruto To Boruto) to NARUTO.exe.bak
-- Place the new NARUTO.exe launcher into the main game directory.
+- Rename ```NARUTO.exe```  in main game directory ```(example C:\SteamLibrary\steamapps\common\Naruto To Boruto)``` to ```NARUTO.exe.bak```
+- Place the new ```NARUTO.exe``` launcher into the main game directory.
 - Now open the game on steam.
 - Once connected to the server in the lobby, go to Ninja tools shop open the mod and apply the changes you want.
+
+#### How to use:
+- To use unlimited scrolls, you need only 1 scroll and then open it, as soon as you open you will receive 450 scrolls!
+- Edit hours played, you need to enable the feature and play 1 kakashi mission, and then your played hours will change (only in game)!
 
 ## Screenshot Menu Showcase
 ![Image of Yaktocat](https://i.imgur.com/B19GzBy.png)

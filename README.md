@@ -11,27 +11,17 @@ https://github.com/codsec/NTBSS-Trainer-Mod/releases
     - quality scroll
     - esoteric scroll
     - kakashi scroll
-- No Reduce Scroll's
-- Infinity Shinobi Boost Seals
-- Infinity Ninja Remake Op. Seals
+- Shinobi Boost Seals
+- Ninja Remake Op. Seals
 - Maximum Money Earned
-- Mission Money Ryo
+- 5 Milions Ryo
 - Max XP master/sensei
-- Instant Max Level Prestige
-- Mission Exp Boost
-- No Cooldown Skills/Jutsu's
-- No Cooldown Ultimate Chakra
-- Freeze Mission Timer
-- Hours Played
-- Mission Changer
-    - Mission S
-    - Mission A
-    - Mission B
-    - Mission C
-    - Mission D
-- PvP Matches
-- PvP Wins
-- Level Character
+- Max Level Acc/Character 
+- Buff Exp
+- Unlimited Chakra
+- Unlimited Timer
+- Unlimited Skills
+- Edit Hours Played
 
 #### How to install:
 - Rename ```NARUTO.exe```  in main game directory ```(example C:\SteamLibrary\steamapps\common\Naruto To Boruto)``` to ```NARUTO.exe.bak```
@@ -44,7 +34,7 @@ https://github.com/codsec/NTBSS-Trainer-Mod/releases
 - Edit hours played, you need to enable the feature and play 1 kakashi mission, and then your played hours will change (only in game)!
 
 ## Screenshot Menu Showcase
-![Image of Yaktocat]([https://i.imgur.com/B19GzBy.png](https://i.imgur.com/5uAdvsZ.png))
+![Image of Yaktocat](https://i.imgur.com/5uAdvsZ.png)
 
 ## Youtube Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3Se4yB76r5A/0.jpg)](https://www.youtube.com/watch?v=ewKzIlKEBYg)
